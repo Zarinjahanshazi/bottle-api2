@@ -1,0 +1,64 @@
+{
+  "bottles": [
+    {
+      "bottle-id": 1,
+      "bottle-name": "Bottle A",
+      "bottle-image": "https://example.com/bottle_a.jpg",
+      "bottle-price": 19.99
+    },
+    {
+      "bottle-id": 2,
+      "bottle-name": "Bottle B",
+      "bottle-image": "https://example.com/bottle_b.jpg",
+      "bottle-price": 24.99
+    },
+    {
+      "bottle-id": 3,
+      "bottle-name": "Bottle C",
+      "bottle-image": "https://example.com/bottle_c.jpg",
+      "bottle-price": 14.99
+    },
+    {
+      "bottle-id": 4,
+      "bottle-name": "Bottle D",
+      "bottle-image": "https://example.com/bottle_d.jpg",
+      "bottle-price": 29.99
+    },
+    {
+      "bottle-id": 5,
+      "bottle-name": "Bottle E",
+      "bottle-image": "https://example.com/bottle_e.jpg",
+      "bottle-price": 17.99
+    },
+    {
+      "bottle-id": 6,
+      "bottle-name": "Bottle F",
+      "bottle-image": "https://example.com/bottle_f.jpg",
+      "bottle-price": 22.99
+    },
+    {
+      "bottle-id": 7,
+      "bottle-name": "Bottle G",
+      "bottle-image": "https://example.com/bottle_g.jpg",
+      "bottle-price": 12.99
+    },
+    {
+      "bottle-id": 8,
+      "bottle-name": "Bottle H",
+      "bottle-image": "https://example.com/bottle_h.jpg",
+      "bottle-price": 34.99
+    },
+    {
+      "bottle-id": 9,
+      "bottle-name": "Bottle I",
+      "bottle-image": "https://example.com/bottle_i.jpg",
+      "bottle-price": 19.99
+    },
+    {
+      "bottle-id": 10,
+      "bottle-name": "Bottle J",
+      "bottle-image": "https://example.com/bottle_j.jpg",
+      "bottle-price": 27.99
+    }
+  ]
+}
